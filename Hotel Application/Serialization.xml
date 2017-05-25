@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfRoom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Room>
+    <Name>Номер 1</Name>
+    <Price>100</Price>
+  </Room>
+  <Room>
+    <Name>Номер 2</Name>
+    <Price>200</Price>
+  </Room>
+  <Room>
+    <Name>Номер 3</Name>
+    <Price>300</Price>
+  </Room>
+  <Room>
+    <Name>Номер 4</Name>
+    <Price>400</Price>
+  </Room>
+  <Room>
+    <Name>Номер 5</Name>
+    <Price>530</Price>
+  </Room>
+</ArrayOfRoom>
